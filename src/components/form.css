@@ -1,0 +1,15 @@
+.has-error {
+   color: red;
+} 
+
+.has-danger {
+    border: 1px solid red;
+}
+
+.left-margin {
+    margin-left: 10px;
+}
+
+.textalign {
+text-align: center
+}
